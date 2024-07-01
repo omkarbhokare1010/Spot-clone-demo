@@ -1,3 +1,4 @@
 # Spot-clone-demo
-this is my first git repository
-Author - okar bhokare
+this is my first git repository.
+<br>
+Author - omkar bhokare.
